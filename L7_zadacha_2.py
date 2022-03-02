@@ -9,7 +9,8 @@
 основных классов проекта, проверить на практике работу декоратора @property."""
 
 class Odezhda:
-    pass
+    h = float
+    v = float
 
 class Kostum(Odezhda):
     def __init__(self, h):
